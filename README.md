@@ -82,7 +82,3 @@ MC361D5X2092
 
 - 🌐 **LinkedIn**: Jihan Kusumawardhani  
 - 📧 **Email**: jihankusumawardhani@gmail.com
-
----
-
-This is a template, and you can adjust the links, repository name, and other specifics as per your project setup. Let me know if you need any further edits or additional information!
