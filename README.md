@@ -1,8 +1,6 @@
 # Data Science Job Clustering and Classification
 
-This project focuses on clustering and classification tasks to analyze job postings in the data science field. It includes clustering data to group similar job postings and classification tasks to predict job types based on features such as job description, skills, and qualifications.
-
-The project utilizes various machine learning algorithms to achieve clustering and classification objectives, demonstrating real-world applications of data science techniques.
+This project serves as part of a submission requirement on the **Dicoding**, focusing on clustering and classification analysis. For this purpose, I utilized a dataset from Kaggle that contains comprehensive information about data science-related job roles.
 
 🏗️ **Project Structure:**
 
