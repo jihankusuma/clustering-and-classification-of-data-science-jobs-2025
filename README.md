@@ -73,6 +73,7 @@ jupyter notebook
 - Use machine learning classification techniques to predict job types based on features like skills, years of experience, and job description.
 - Evaluate the models using appropriate performance metrics, such as **accuracy**, **precision**, **recall**, and **F1-score**.
 
+---
 👩‍💻 **About the Author:**
 
 **Jihan Kusumawardhani**  
@@ -82,3 +83,5 @@ MC361D5X2092
 
 - 🌐 **LinkedIn**: Jihan Kusumawardhani  
 - 📧 **Email**: jihankusumawardhani@gmail.com
+
+---
